@@ -1,2 +1,2 @@
 # hada_vote_leo
-aleo resource
+hada customer vote
