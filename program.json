@@ -1,0 +1,10 @@
+{
+    "program": "hada_vote.aleo",
+    "version": "0.0.1",
+    "description": "hada custom vote",
+    "development": {
+        "private_key": "APrivateKey1zkpBeaAhTXZghn7kY7zbrwhJiTuHEmz65iKQxEaYs7bvdu7",
+        "address": "aleo1d5v6t8gfl2hktah33jsk92ylycvpw2esawy2m2zcrpkzy44xeu8srp3cmw"
+    },
+    "license": "MIT"
+}
