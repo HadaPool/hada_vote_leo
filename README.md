@@ -39,13 +39,13 @@ Output sample:
 
 ```
  {
-  owner: aleo1kkk52quhnxgn2nfrcd9jqk7c9x27c23f2wvw7fyzcze56yahvcgszgttu2.private,
+  owner: aleo1d5v6t8gfl2hktah33jsk92ylycvpw2esawy2m2zcrpkzy44xeu8srp3cmw.private,
   gates: 0u64.private,
   id: 2805252584833208809872967597325381727971256629741137995614832105537063464740field.private,
   info: {
     title: 2077160157502449938194577302446444field.private,
     content: 1452374294790018907888397545906607852827800436field.private,
-    proposer: aleo1kkk52quhnxgn2nfrcd9jqk7c9x27c23f2wvw7fyzcze56yahvcgszgttu2.private
+    proposer: aleo1d5v6t8gfl2hktah33jsk92ylycvpw2esawy2m2zcrpkzy44xeu8srp3cmw.private
   },
   _nonce: 1639660347839832220966145410710039205878572956621820215177036061076060242021group.public
 }
@@ -69,7 +69,7 @@ Output sample:
 
 ```
 {
-  owner: aleo1kkk52quhnxgn2nfrcd9jqk7c9x27c23f2wvw7fyzcze56yahvcgszgttu2.private,
+  owner: aleo1d5v6t8gfl2hktah33jsk92ylycvpw2esawy2m2zcrpkzy44xeu8srp3cmw.private,
   gates: 0u64.private,
   pid: 2264670486490520844857553240576860973319410481267184439818180411609250173817field.private,
   _nonce: 1637267040221574073903539416642641433705357302885235345311606754421919550724group.public
